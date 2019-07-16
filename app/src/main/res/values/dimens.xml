@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_backdrop_height">300dp</dimen>
+    <dimen name="large_avatar_size">140dp</dimen> <!-- 2 * actionBarSize - 2 * avatar_padding -->
+    <dimen name="large_avatar_marginTop">80dp</dimen><!-- spacing_large - avatar_padding -->
+    <dimen name="large_avatar_margin">16dp</dimen>
+    <dimen name="large_avatar_height">160dp</dimen>
+    <dimen name="avatar_padding">4dp</dimen>
+    <dimen name="avatar_margin">8dp</dimen>
+    <dimen name="text_padding">16dp</dimen>
+    <dimen name="card_radius">10dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="appbarSize">55dp</dimen>
+
+</resources>

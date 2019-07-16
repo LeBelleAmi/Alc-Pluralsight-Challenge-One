@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Challenge One</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="myprofile">My Profile</string>
+    <string name="slackname">\&#64;LeBelleAmi</string>
+    <string name="slack">Slack Username</string>
+    <string name="phoneno">+234 703 544 6789</string>
+    <string name="phone">Phone</string>
+    <string name="emailacct">omawumieyekpimi@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="location">Nigeria</string>
+    <string name="country">Country</string>
+    <string name="code">Android</string>
+    <string name="track">Track</string>
+</resources>
